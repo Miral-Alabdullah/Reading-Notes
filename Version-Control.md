@@ -4,7 +4,7 @@ A system which provides the ability to record the changes or the modifications t
 ## The types of Version Control (VCS) and the differences between them :
 
 Loval Version Control (**LVCS**) | Centralized Version Control (**CVCS**) | Distributed Version Control (**DVCS**)
---------------------- | --------------------------- | ---------------------------
+-------------------------------------------------- | -------------------------------------------------- | ---------------------------
 ُntails one database on the hard disk that stores changes to files | A single server storing the changes and all clients can reach to it | Allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information (The main reason for it is because the if the CVCS goes down all the user will lose the capability of reaching the other's files and do any process on it)
 
 <br>
