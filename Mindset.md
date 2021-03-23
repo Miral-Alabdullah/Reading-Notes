@@ -36,7 +36,18 @@ That is unlike the attributes of fixed mindset.
 *Criticism* | Ignores  | Learns from
 *Success of others* | Views as a threat | Is inspired by
 
+
+## > The things that help my mind to grow
+> > Learn something new everyday.
+> > Try new challenges.
+> > Keep my studying life on track. 
+> > Take the other's success as inspired stories
+> > Get to know better and never let me down.
+
+
 ***
+
+
 <br>
 
 # Who is Miral?
@@ -54,4 +65,7 @@ That is unlike the attributes of fixed mindset.
 # And,
 
 I love Red.
+
+
+[Check my profile to know more bout me](https://github.com/Miral-Alabdullah)
 
