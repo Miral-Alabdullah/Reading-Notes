@@ -1,6 +1,9 @@
 # Mindset
 ![Mindset](https://assets.entrepreneur.com/content/3x2/2000/1600288418-GettyImages-1185654371.jpg)
 
+
+*“Your mind is a garden. Your thoughts are the seeds. You can grow flowers or you can grow weeds.”*
+
 ***
 
 > **What is the Growth Mindset?** 
