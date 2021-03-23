@@ -1,9 +1,15 @@
 # Mindset
 ![Mindset](https://assets.entrepreneur.com/content/3x2/2000/1600288418-GettyImages-1185654371.jpg)
+
 ***
+
 > **What is the Growth Mindset?** 
+
 ***
+
+
 _By looking around us we can see different types of people. There are people who born with a talent and there are people who born again with a learned talent._
+
 
 <br>
 
