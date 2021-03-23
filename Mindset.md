@@ -25,7 +25,8 @@ That is unlike the attributes of fixed mindset.
 
 ***
 
-## The differnces between the actions of growth mindset and fixed mindset when they face some rocks in their journeys are: 
+### The differnces between the actions of growth mindset and fixed mindset when they face some rocks in their journeys are: 
+
 <br>
 
 **Comparisons** | **Fixed mindset** | **Growth mindset**
@@ -37,12 +38,13 @@ That is unlike the attributes of fixed mindset.
 *Success of others* | Views as a threat | Is inspired by
 
 
-## > The things that help my mind to grow
-> > Learn something new everyday.
-> > Try new challenges.
-> > Keep my studying life on track. 
-> > Take the other's success as inspired stories
-> > Get to know better and never let me down.
+> # The things that help my mind to grow
+
+* Learn something new everyday.
+* Try new challenges.
+* Keep my studying life on track. 
+* Take the other's success as inspired stories
+* Get to know better and never let me down.
 
 
 ***
