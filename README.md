@@ -28,4 +28,4 @@ I know about Machine learning algorithms such as: Bagging and Backpropagation, a
 | Read02a     | [Class2](Read02.md)            |
 | Read02b     | [Class2](Version-Control.md)   |  
 | Lab02a      | [Class2](Mindset.md)           | 
-| Read03      | [Class3](Rea03.md)             |
+| Read03      | [Class3](Read03.md)            |
