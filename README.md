@@ -27,5 +27,5 @@ I know about Machine learning algorithms such as: Bagging and Backpropagation, a
 | Read01      | [Class1](Read01.md)            |
 | Read02a     | [Class2](Read02.md)            |
 | Read02b     | [Class2](Version-Control.md)   |  
-| Lab02a      | [Class2](Mindset.md)           | 
 | Read03      | [Class3](Read03.md)            |
+| Read04      | [Class4](Read04.md)            |
