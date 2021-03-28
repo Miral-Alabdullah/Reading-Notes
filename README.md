@@ -29,3 +29,4 @@ I know about Machine learning algorithms such as: Bagging and Backpropagation, a
 | Read02b     | [Class2](Version-Control.md)   |  
 | Read03      | [Class3](Read03.md)            |
 | Read04      | [Class4](Read04.md)            |
+| Read05      | [Class5](Read05.md)            |
