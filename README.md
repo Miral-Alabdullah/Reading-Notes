@@ -3,8 +3,8 @@
 <hr>
 
 - **A brief introduction about me.**
-- **Table of content fot code 102.**
-- **Table of content fot code 201.**
+- **Table of content for code 102.**
+- **Table of content for code 201.**
 
 
 
