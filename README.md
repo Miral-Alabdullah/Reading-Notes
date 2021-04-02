@@ -8,7 +8,6 @@
 
 
 
-
 <br>
 <br>
 <br>
@@ -42,15 +41,15 @@ I know about Machine learning algorithms such as: Bagging and Backpropagation, a
 
 ## Table of content for **Code 102 Reading Notes**
 
-| Assignment  | Link                           |
-| ----------- | ------------------------------ |
-| Read01      | [Class1](Read01.md)            |
-| Read02a     | [Class2](Read02.md)            |
-| Read02b     | [Class2](Version-Control.md)   |  
-| Read03      | [Class3](Read03.md)            |
-| Read04      | [Class4](Read04.md)            |
-| Read05      | [Class5](Read05.md)            |
-| Read06      | [Class6](Read06.md)            |
+| Assignment  | Link                                  |
+| ----------- | ------------------------------------- |
+| Read01      | [Class1](Code102/Read01.md)           |
+| Read02a     | [Class2](Code102/Read02.md)           |
+| Read02b     | [Class2](Code102/Version-Control.md)  |  
+| Read03      | [Class3](Code102/Read03.md)           |
+| Read04      | [Class4](Code102/Read04.md)           |
+| Read05      | [Class5](Code102/Read05.md)           |
+| Read06      | [Class6](Code102/Read06.md)           |
 
 <hr>
 
@@ -60,18 +59,18 @@ I know about Machine learning algorithms such as: Bagging and Backpropagation, a
 
 | Assignment  | Link                           |
 | ----------- | ------------------------------ |
-| Class1      | [Class1](.md)            |
-| Class2      | [Class2](.md)            |
-| Class3      | [Class3](.md)   |  
-| Class4      | [Class4](.md)            |
-| Class5      | [Class5](.md)            |
-| Class6      | [Class6](.md)            |
-| Class7      | [Class7](.md)            |
-| Class8      | [Class8](.md)            |
-| Class9      | [Class9](.md)            |
-| Class10     | [Class10](.md)            |
-| Class11     | [Class11](.md)            |
-| Class12     | [Class12](.md)            |
-| Class13     | [Class13](.md)            |
-| Class14     | [Class14](.md)            |
-| Class15     | [Class15](.md)            |
+| Read01      | [Class1](Code201/Read01.md)    |
+| Class2      | [Class2](.md)                  |
+| Class3      | [Class3](.md)                  |  
+| Class4      | [Class4](.md)                  |
+| Class5      | [Class5](.md)                  |
+| Class6      | [Class6](.md)                  |
+| Class7      | [Class7](.md)                  |
+| Class8      | [Class8](.md)                  |
+| Class9      | [Class9](.md)                  |
+| Class10     | [Class10](.md)                 |
+| Class11     | [Class11](.md)                 |
+| Class12     | [Class12](.md)                 |
+| Class13     | [Class13](.md)                 |
+| Class14     | [Class14](.md)                 |
+| Class15     | [Class15](.md)                 |
