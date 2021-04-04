@@ -12,7 +12,7 @@ Before we head into the answer. take a look at the picture down below:
 
 What do you see in that picture? 
 
-**I will tell you :**
+**I will tell you:**
 
 
 * That picture shows some details of newspaper samples.
@@ -48,7 +48,7 @@ We have to write a code to structure the webpage. This code must be contained ch
 ![htmlStructure!](https://www.edupointbd.com/wp-content/uploads/2017/09/basic-code.png)
 
 
-According to the picture above, we can say that head and body are elements each one of them has a different purpose of usage, but these elements can be also more described with an extra details.
+According to the picture above, we can say that head and body are elements each one of them has a different purpose of usage, but these elements can be also more described with extra details.
 
 
 ## HOW?
@@ -91,19 +91,19 @@ let's get deep into the HTML
 | ``<head>``         | You put the description/specific details of the webpage over here                                    |
 | ``<link>``         | specifies relationships between the current document and an external resource (3) *Self-closing tag* |
 | ``ID Attribute``   | It is used to uniquely identify that element from other elements on the page  (4)                    |
-| ``Class Attribute``| It is like ID but it can be applied on more that one element                                         |
+| ``Class Attribute``| It is like ID but it can be applied on more than one element                                         |
 | ``Block elements`` | A block-level element always starts on a new line (e.g: lists)                                       |
-| ``inline elements``| Some elements will alwaysappear to continue on the same line (e.g: `<b></b>`) (5)                    | 
+| ``inline elements``| Some elements will always appear to continue on the same line (e.g: `<b></b>`) (5)                    | 
 | ``<article>``      | Tag specifies independent, self-contained content. It shows like the latest news in the websites     |
-| ``<section>``      | This tag divide the website and take a scetion to show a related content                             |
-| ``<div>``          | Difines a specific secion in the web page, it used as a container for HTML elements                  |
-| ``<span>``         | Difines a specific secion of a text, number of inline elements                                       |
-| ``<nav>``          | It means the the block inside of it includes hyperlinks                                              |
-| ``<footer>``       | Contains the copyrights, the contacts information and more                                           |
+| ``<section>``      | This tag divide the website and take a section to show related content                             |
+| ``<div>``          | Defines a specific section in the web page, it used as a container for HTML elements                  |
+| ``<span>``         | Defines a specific section of a text, number of inline elements                                       |
+| ``<nav>``          | It means the block inside of it includes hyperlinks                                              |
+| ``<footer>``       | Contains the copyrights, the contacts information, and more                                           |
 | ``<iframe>``       | Like a little window that has been cut into your page                                                |
 | ``<meta>``         | Contains information about the webpage                                                               |
-| ``<footer>``       | Contains the copyrights, the contacts information and more                                           |
-| ``<aside>``        | Defines some content asiDe from the content it is placed in                                          |
+| ``<footer>``       | Contains the copyrights, the contacts information, and more                                           |
+| ``<aside>``        | Defines some content aside from the content it is placed in                                          |
 | ``<hgroup>``       | Group the `<h>` elements within a same block-level                                                   |
 
 
