@@ -93,16 +93,16 @@ let's get deep into the HTML
 | ``ID Attribute``   | It is used to uniquely identify that element from other elements on the page  (4)                    |
 | ``Class Attribute``| It is like ID but it can be applied on more than one element                                         |
 | ``Block elements`` | A block-level element always starts on a new line (e.g: lists)                                       |
-| ``inline elements``| Some elements will always appear to continue on the same line (e.g: `<b></b>`) (5)                    | 
+| ``inline elements``| Some elements will always appear to continue on the same line (e.g: `<b></b>`) (5)                   | 
 | ``<article>``      | Tag specifies independent, self-contained content. It shows like the latest news in the websites     |
-| ``<section>``      | This tag divide the website and take a section to show related content                             |
-| ``<div>``          | Defines a specific section in the web page, it used as a container for HTML elements                  |
-| ``<span>``         | Defines a specific section of a text, number of inline elements                                       |
-| ``<nav>``          | It means the block inside of it includes hyperlinks                                              |
-| ``<footer>``       | Contains the copyrights, the contacts information, and more                                           |
+| ``<section>``      | This tag divide the website and take a section to show related content                               |
+| ``<div>``          | Defines a specific section in the web page, it used as a container for HTML elements                 |
+| ``<span>``         | Defines a specific section of a text, number of inline elements                                      |
+| ``<nav>``          | It means the block inside of it includes hyperlinks                                                  |
+| ``<footer>``       | Contains the copyrights, the contacts information, and more                                          |
 | ``<iframe>``       | Like a little window that has been cut into your page                                                |
 | ``<meta>``         | Contains information about the webpage                                                               |
-| ``<footer>``       | Contains the copyrights, the contacts information, and more                                           |
+| ``<footer>``       | Contains the copyrights, the contacts information, and more                                          |
 | ``<aside>``        | Defines some content aside from the content it is placed in                                          |
 | ``<hgroup>``       | Group the `<h>` elements within a same block-level                                                   |
 
