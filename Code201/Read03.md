@@ -113,7 +113,7 @@ Well, yes you can! let's check together :
 </ul>
 ```
 
-This code above will show the list as following : 
+This code above will show the list as follows: 
 
 
 <ul style="list-style-type:circle;">
@@ -129,7 +129,7 @@ This code above will show the list as following :
 <br>
 
 
-+ **Defintion list:** 
++ **Definition list:** 
 
 >> It uses to list some terms and add a description to each one
 
@@ -143,7 +143,7 @@ Let's check!!
 ```
 
 
-This code above will show the list as following : 
+This code above will show the list as follows : 
 
 <dl>
 <dt>ASAC:</dt>
@@ -199,7 +199,7 @@ As you can see in the picture above, the structure of HTML will display the elem
 <br>
 
 
-* Marging: The space between the borders.
+* Margin: The space between the borders.
 
 * Padding: The space between the content and the border.
 
