@@ -1,4 +1,4 @@
-# AGENDA : 
+# Contents : 
 
 ## 1) HTML
 
@@ -119,7 +119,7 @@ Here is a small cheat sheet for those elements :
 | ``<em>``           | It indicates emphasis that subtly changes the meaning of a sentence. The effect will be italic         |
 | ``<blockquote>``   | For quoted paragraphs (long quotes)                                                                    | 
 | ``<q>``            | For short quotes (within the paragraphs)                                                               |
-| ``<abbr>``         | Stands for *Abbreviation* for example CSS is an abbreviation for cascading style sheets                 |
+| ``<abbr>``         | Stands for *Abbreviation* for example CSS is an abbreviation for cascading style sheets                |
 | ``<cite>``         | For referencing from books or other sources                                                            |
 | ``<dfn>``          | <cite>The <dfn> element is used to indicate the defining instance of a new term <mark>[4]</mark></cite>|
 | ``<address>``      | Contains the information of the author/contacts                                                        |
