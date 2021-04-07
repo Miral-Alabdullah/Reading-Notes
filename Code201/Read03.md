@@ -19,6 +19,7 @@
 ## 3) JavaScript
 
 
+<hr>
 <br>
 <br>
 
