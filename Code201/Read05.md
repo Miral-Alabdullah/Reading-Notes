@@ -98,6 +98,7 @@
 >> CHAPTER 11:
 
 ![Colors-CSS!](css-colors-1024x512.png)
+
 **Pixle** : is a smallest unit of a digital image that can be displayed on any digital display device(tiny squares).
 **AND** The monitors of the Computers are made of thousnds of these pixles.
 
