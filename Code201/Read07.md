@@ -8,7 +8,7 @@
 
 
 
-## 1) JavaScript
+## 2) JavaScript
 
 
 >> CHAPTER 6: 
