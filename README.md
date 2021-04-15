@@ -68,7 +68,7 @@ I know about Machine learning algorithms such as: Bagging and Backpropagation, a
 | Read07      | [Class7](Code201/Read07.md)    |
 | Read08      | [Class8](Code201/Read08.md)    |
 | Read09      | [Class9](Code201/Read09.md)    |
-| Class10     | [Class10](.md)                 |
+| Read10      | [Class10](Code201/Read10.md)   |
 | Class11     | [Class11](.md)                 |
 | Class12     | [Class12](.md)                 |
 | Class13     | [Class13](.md)                 |
