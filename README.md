@@ -23,15 +23,15 @@
 <hr>
 <br>
 
-I have been living in this world for 23 years and 3 months. I am a passionate girl who had graduated with a bachelor's degree in Computer science. My specific passion is in **Data**, That is why I had a *Data Analytics and Visualization* course contains (SQL / T-SQL, SSIS, SSAS, SSRS, and Power BI) as soon as I graduated, and for some reasons I like Web development and that led me to be enrolled in **ASAC** to get myself ready for the web universe.
-I know about Machine learning algorithms such as: Bagging and Backpropagation, and those both algorithms were the main part of my graduation project which was about *Voice classification* and *data mining.* Also, I got to know about *JAVA programing language* and the basics of *HTML, CSS, and Javascript.*
+A graduate with a bachelor's degree in Computer science. Software developer with a background in data analytics. Well-versed with **SQL, HTML, CSS, JavaScript, Integration services, Power BI, and Reporting services.**
+I know about Machine learning algorithms such as Bagging and Backpropagation, and both algorithms were the main part of my graduation project which was about Voice classification and data mining. Also, I got to learn the basics of some programming languages such as **Java, C++, and C#.** 
+
+
 <br>
 
 
 
 <hr>
-
-
 
 
 
@@ -74,3 +74,16 @@ I know about Machine learning algorithms such as: Bagging and Backpropagation, a
 | Read13      | [Class13](Code201/Read13.md)   |
 | Read14a     | [Class14](Code201/Read14a.md)  |
 | Read14b     | [Class14](Code201/Read14b.md)  |
+
+<hr>
+
+
+## Table of content for **Code 301 Reading Notes**
+
+| Assignment  | Link                           |
+| ----------- | ------------------------------ |
+| Read01      | [Class1]()                     |
+| Read02      | [Class2]()                     |
+| Read03      | [Class3]()                     |  
+| Read04      | [Class4]()                     |
+| Read05      | [Class5]()                     |
