@@ -82,7 +82,7 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 
 | Assignment  | Link                           |
 | ----------- | ------------------------------ |
-| Read01      | [Class1]()                     |
+| Read01      | [Class1](Code301/Read01.md)    |
 | Read02      | [Class2]()                     |
 | Read03      | [Class3]()                     |  
 | Read04      | [Class4]()                     |
