@@ -85,5 +85,5 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 | Read01      | [Class1](Code301/Read01.md)    |
 | Read02      | [Class2](Code301/Read02.md)    |
 | Read03      | [Class3](Code301/Read03.md)    |  
-| Read04      | [Class4]()                     |
+| Read04      | [Class4](Code301/Read04.md)    |
 | Read05      | [Class5]()                     |
