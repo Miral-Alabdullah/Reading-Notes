@@ -77,7 +77,6 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 
 <hr>
 
-
 ## Table of content for **Code 301 Reading Notes**
 
 | Assignment  | Link                           |
@@ -87,3 +86,4 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 | Read03      | [Class3](Code301/Read03.md)    |  
 | Read04      | [Class4](Code301/Read04.md)    |
 | Read05      | [Class5](Code301/Read05.md)    |
+| Read06      | [Class5](Code301/Read06.md)    |
