@@ -93,4 +93,6 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 | Read10      | [Class10](Code301/Read10.md)   |
 | Read11      | [Class11](Code301/Read11.md)   |
 | Read12      | [Class12](Code301/Read12.md)   |
+| Read13      | [Class13](Code301/Read13.md)   |
+
 
