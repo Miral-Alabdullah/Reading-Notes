@@ -97,4 +97,23 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 | Read14      | [Class14](Code301/Read14.md)   |
 
 
+<hr>
 
+## Table of content for **Code 401 Reading Notes**
+
+| Assignment  | Link                           |
+| ----------- | ------------------------------ |
+| Read01      | [Class1](Code401/Read01.md)    |
+| Read02      | [Class2]()    |
+| Read03      | [Class3]()    |  
+| Read04      | [Class4]()    |
+| Read05      | [Class5]()    |
+| Read06      | [Class6]()    |
+| Read07      | [Class7]()    |
+| Read08      | [Class8]()    |
+| Read09      | [Class9]()    |
+| Read10      | [Class10]()   |
+| Read11      | [Class11]()   |
+| Read12      | [Class12]()   |
+| Read13      | [Class13]()   |
+| Read14      | [Class14]()   |
