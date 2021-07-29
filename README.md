@@ -107,7 +107,7 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 | Read02      | [Class2](Code401/Read02.md)    |
 | Read03      | [Class3](Code401/Read03.md)    |  
 | Read04      | [Class4](Code401/Read04.md)    |
-| Read05      | [Class5]()    |
+| Read05      | [Class5](Code401/Read05.md)    |
 | Read06      | [Class6]()    |
 | Read07      | [Class7]()    |
 | Read08      | [Class8]()    |
