@@ -136,5 +136,3 @@ curl -i -X POST -H "Content-Type:application/json"
 <br>
 <br>
 <br>
-
-# Integration Testing in Spring
