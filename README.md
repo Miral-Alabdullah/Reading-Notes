@@ -125,7 +125,7 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 | Read18      | [Class18](Code401/Read18.md)   |
 | Read19      | [Class19](Code401/Read19.md)   |
 | Read26      | [Class26](Code401/Read26.md)   |
-| Read21      | [Class21]()   |
+| Read27      | [Class27](Code401/Read27.md)   |
 | Read22      | [Class22]()   |
 | Read23      | [Class23]()   |
 | Read24      | [Class24]()   |
