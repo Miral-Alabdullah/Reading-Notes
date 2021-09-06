@@ -74,5 +74,3 @@ A Serverless solution consists of a web server, Lambda functions (FaaS), securit
 <hr>
 
 **Database** => AWS DynamoDB provides a fully managed NoSQL database. DynamoDB is not essential for a serverless application but is used as an example here.
-
-.
