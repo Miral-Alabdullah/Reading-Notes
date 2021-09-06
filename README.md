@@ -129,4 +129,4 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 | Read29      | [Class29](Code401/Read29.md)   |
 | Read30      | [Class30](Code401\Read30.md)   |
 | Read31      | [Class31](Code401\Read31.md)   |
-| Read25      | [Class25]()   |
+| Read32      | [Class32](Code401\Read32.md)   |
