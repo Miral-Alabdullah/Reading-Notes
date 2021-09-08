@@ -118,8 +118,6 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 | Read11      | [Class11](Code401/Read11.md)   |
 | Read12      | [Class12](Code401/Read12.md)   |
 | Read13      | [Class13](Code401/Read13.md)   |
-| Read14      | [Class14]()   |
-| Read15      | [Class15]()   |
 | Read16      | [Class16](Code401/Read16.md)   |
 | Read17      | [Class17](Code401/Read17.md)   |
 | Read18      | [Class18](Code401/Read18.md)   |
@@ -131,5 +129,6 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 | Read31      | [Class31](Code401\Read31.md)   |
 | Read32      | [Class32](Code401\Read32.md)   |
 | Read33      | [Class32](Code401\Read33.md)   |
+| Read34      | [Class32](Code401\Read34.md)   |
 
 
