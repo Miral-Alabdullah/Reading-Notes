@@ -132,6 +132,7 @@ I know about Machine learning algorithms such as Bagging and Backpropagation, an
 | Read34      | [Class34](Code401/Read34.md)   |
 | Read35      | [Class35](Code401/Read35.md)   |
 | Read36      | [Class36](Code401/Read36.md)   |
-| Read37      | [Class36](Code401/Read37.md)   |
+| Read37      | [Class37](Code401/Read37.md)   |
+| Read38      | [Class38](Code401/Read38.md)   |
 
 
